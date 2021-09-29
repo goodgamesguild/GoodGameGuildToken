@@ -1,1 +1,1 @@
-# GoodGameGuldToken
+# GoodGameGuildToken
